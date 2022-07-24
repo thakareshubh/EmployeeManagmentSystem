@@ -1,0 +1,13 @@
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\91992\Desktop\EmployeeManagementSystem\RepositoryLibrary\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb

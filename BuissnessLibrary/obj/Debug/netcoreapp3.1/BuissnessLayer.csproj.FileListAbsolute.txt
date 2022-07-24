@@ -1,0 +1,15 @@
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\bin\Debug\netcoreapp3.1\BuissnessLayer.deps.json
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\bin\Debug\netcoreapp3.1\BuissnessLayer.dll
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\bin\Debug\netcoreapp3.1\BuissnessLayer.pdb
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.csproj.AssemblyReference.cache
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.AssemblyInfoInputs.cache
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.AssemblyInfo.cs
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.csproj.CopyComplete
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.dll
+C:\Users\91992\Desktop\EmployeeManagementSystem\BuissnessLibrary\obj\Debug\netcoreapp3.1\BuissnessLayer.pdb
